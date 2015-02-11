@@ -1,5 +1,0 @@
-# -*- coding: utf-8 -*-
-# Gyakorlat 7.3.
-# Definiáljon egy korTerulet(R) függvényt. A függvénynek egy kör területét kell visszaadni, aminek az 
-# R sugarát argumentumként adjuk meg.
-# Például a :print korTerulet(2.5) utasítás eredményének 19.635 ­nek kell lenni

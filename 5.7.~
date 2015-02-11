@@ -1,8 +1,0 @@
-# -*- coding: utf-8 -*-
-# Gyakorlat 5.7.
-# Írjon   egy   programot,   ami   megszámolja  az   « e »   karakter   előfordulásainak   számát   egy 
-# stringben.
-
-text=input('Irjon be egy szöveget: ')
-car='e'
-
